@@ -1,26 +1,26 @@
 <div align="center">
 
 <!-- FUTURE HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=GLOWMATE%20LAB&fontSize=72&animation=twinkling&fontColor=00D1FF&desc=Design%20%26%20Motion%20Showcase&descSize=22&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=240&amp;section=header&amp;text=GLOWMATE%20LAB&amp;fontSize=72&amp;animation=twinkling&amp;fontColor=00D1FF&amp;desc=Design%20%26%20Motion%20Showcase&amp;descSize=22&amp;descAlignY=75" width="100%" />
 
 <!-- MOTION TAGLINE -->
 ### 💠 "Design that breathes. Motion that remembers."
 *Neon precision • Companion presence • Sci‑fi polish*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=700&color=00D1FF&center=true&vCenter=true&width=760&lines=Hologram+Dashboards;Neon+Microinteractions;Living+Mascots;Premium+UI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=24&amp;pause=700&amp;color=00D1FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hologram+Dashboards;Neon+Microinteractions;Living+Mascots;Premium+UI+Systems)](https://git.io/typing-svg)
 
 ---
 
 <!-- LIVE DEMO BADGES -->
 <p align="center">
   <a href="https://your-demo-1.example" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Hologram%20Dashboard-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live-Hologram%20Dashboard-00D1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
   <a href="https://your-demo-2.example" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Companion%20Mascots-00D1FF?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live-Companion%20Mascots-00D1FF?style=for-the-badge&amp;logo=react&amp;logoColor=white" />
   </a>
   <a href="https://your-demo-3.example" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Neon%20Task%20Manager-00D1FF?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live-Neon%20Task%20Manager-00D1FF?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
   </a>
 </p>
 
@@ -84,15 +84,15 @@
 ## Tech and telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glowmatelab&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_color=00D1FF&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowmatelab&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_color=00D1FF&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glowmatelab&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=00D1FF&amp;text_color=FFFFFF&amp;border_color=00D1FF&amp;hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowmatelab&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0D1117&amp;title_color=00D1FF&amp;text_color=FFFFFF&amp;border_color=00D1FF&amp;hide_border=true" width="42%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI-Glass%20Neon-00D1FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motion-Orbitron%20Timing-00D1FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20Canvas%20%7C%20GSAP-00D1FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel-00D1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
 </p>
 
 ---
@@ -103,5 +103,5 @@
 > वायुमतेः — Flow of Air, Flow of Thought
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00D1FF&height=20&section=footer&width=100%" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=00D1FF&amp;height=20&amp;section=footer&amp;width=100%" width="100%" />
 </div>
