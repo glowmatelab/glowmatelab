@@ -1,10 +1,6 @@
-# <p align="center">🧪 GLOWMATE LAB</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=GLOWMATE%20LAB&fontSize=72&animation=twinkling&fontColor=00D1FF&desc=Design%20%26%20Motion%20Showcase&descSize=22&descAlignY=75" />
-</p>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=GLOWMATE%20LAB&fontSize=72&animation=twinkling&fontColor=00D1FF&desc=Design%20%26%20Motion%20Showcase&descSize=22&descAlignY=75" width="100%" />
 
 ### 💠 "Design that breathes. Motion that remembers."
 *Neon precision • Companion presence • Sci‑fi polish*
@@ -38,7 +34,7 @@
 ---
 
 ### 🏆 Achievement Milestones
-![Trophies](https://github-profile-trophy.vercel.app/?username=glowmatelab&theme=tokyonight&no-bg=true&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=glowmatelab&theme=tokyonight&no-bg=true&column=4" width="100%" />
 
 ---
 
@@ -46,8 +42,6 @@
 > “Calibration complete. Logic channels open. I remain at your side.”  
 > **वायुमतेः** — Flow of Air, Flow of Thought
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00D1FF&height=20&section=footer&width=100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=00D1FF&height=20&section=footer&width=100%" />
 
 </div>
