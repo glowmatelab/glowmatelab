@@ -1,6 +1,11 @@
+# <p align="center">🧪 GLOWMATE LAB</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=GLOWMATE%20LAB&fontSize=72&animation=twinkling&fontColor=00D1FF&desc=Design%20%26%20Motion%20Showcase&descSize=22&descAlignY=75" />
+</p>
+
 <div align="center">
 
-# 🧪 GLOWMATE-LAB
 ### 💠 "Design that breathes. Motion that remembers."
 *Neon precision • Companion presence • Sci‑fi polish*
 
@@ -8,23 +13,17 @@
 
 ---
 
-| 🛰️ System Component | 📡 Current Status | 🛠️ Version |
-| :--- | :--- | :--- |
-| **Visual Engine** | `Operational` | `v3.0.4` |
-| **Architecture** | `Logic-First` | `Stable` |
+## 🏗️ Architecture Philosophy
+> **"Not good at coding, but best at architecting."**
+> Designing robust systems where logic flows better than syntax.
 
 ---
 
-### 📊 Lab Metrics
+### 📊 Lab Telemetry
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glowmatelab&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_color=00D1FF&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glowmatelab&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&border_color=00D1FF&hide_border=true" width="42%" />
 </p>
-
----
-
-### 🏗️ Architecture Philosophy
-> **"Not good at coding, but best at architecting."** > Designing robust systems where logic flows better than syntax.
 
 ---
 
@@ -39,14 +38,16 @@
 ---
 
 ### 🏆 Achievement Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glowmatelab&theme=tokyonight&no-bg=true&column=4" width="100%" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=glowmatelab&theme=tokyonight&no-bg=true&column=4)
 
 ---
 
 ### 🌌 Companion Signature
 > “Calibration complete. Logic channels open. I remain at your side.”  
 > **वायुमतेः** — Flow of Air, Flow of Thought
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00D1FF&height=20&section=footer&width=100%" />
+</p>
 
 </div>
