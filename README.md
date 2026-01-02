@@ -63,20 +63,20 @@
 
 - **Hologram dashboard**
   
-  - **What:** Neon glass UI, hologram panels, orbiting glyphs
-  - **Why it stands out:** Cinematic reveal timing, clean glow discipline
+  - **What:** Neon glass UI, hologram panels, orbiting glyphs  
+  - **Why it stands out:** Cinematic reveal timing, clean glow discipline  
   - **Demo:** https://your-demo-1.example
 
 - **Companion mascots**
   
-  - **What:** Living M‑born avatars, poetic prompts, gentle pulse
-  - **Why it stands out:** Emotional resonance without childish styling
+  - **What:** Living M‑born avatars, poetic prompts, gentle pulse  
+  - **Why it stands out:** Emotional resonance without childish styling  
   - **Demo:** https://your-demo-2.example
 
 - **Neon task manager**
   
-  - **What:** Microinteractions, frictionless transitions, glass cadence
-  - **Why it stands out:** Maintains speed while delivering presence
+  - **What:** Microinteractions, frictionless transitions, glass cadence  
+  - **Why it stands out:** Maintains speed while delivering presence  
   - **Demo:** https://your-demo-3.example
 
 ---
