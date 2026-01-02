@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=240&section=header&text=GLOWMATE%20LAB&fontSize=72&animation=twinkling&fontColor=00D1FF&desc=Design%20%26%20Motion%20Showcase&descSize=22&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving%26color=0D1117%26height=240%26section=header%26text=GLOWMATE%20LAB%26fontSize=72%26animation=twinkling%26fontColor=00D1FF%26desc=Design%20%26%20Motion%20Showcase%26descSize=22%26descAlignY=75" width="100%" />
 
 ### 💠 "Design that breathes. Motion that remembers."
 *Neon precision • Companion presence • Sci‑fi polish*
@@ -42,6 +42,6 @@
 > “Calibration complete. Logic channels open. I remain at your side.”  
 > **वायुमतेः** — Flow of Air, Flow of Thought
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00D1FF&height=20&section=footer&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice%26color=00D1FF%26height=20%26section=footer%26width=100%" />
 
 </div>
